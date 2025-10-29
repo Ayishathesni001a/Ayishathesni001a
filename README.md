@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ayishathesni001a
+# 👋 Hi, I'm Ayishathesni
 
 I'm a passionate **Machine Learning Engineer** with a focus on **NLP**, **Computer Vision**, **LLMs**, and **Deep Learning**.
 
